@@ -21,8 +21,8 @@ A command-line utility written in Python to process, sort, and validate IP addre
 
 1.  Clone this repository:
     ```bash
-    git clone <your_repository_url_once_created_on_github>
-    cd <your_repository_folder_name> # e.g., ip_processor_tool
+    git clone https://github.com/bozinfosec/ip-processor-tool.git
+    cd ip-processor-tool # e.g., ip_processor_tool
     ```
 2.  (Optional, but good practice for development) Create and activate a virtual environment:
     ```bash
