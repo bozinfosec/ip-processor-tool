@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+ENV.bak/
+venv.bak/
+.venv/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files (if your script generates logs you don't want to commit)
+*.log
+
+# Output files (if you don't want to commit example outputs,
+# though sometimes it's useful to commit an example output)
+# sorted_ip_addresses.txt
+
+# Test files (depending on your testing strategy)
+# coverage.xml
+# .coverage
+# htmlcov/
+# .pytest_cache/
